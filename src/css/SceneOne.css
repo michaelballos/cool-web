@@ -1,0 +1,8 @@
+.SceneOneContainer {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
